@@ -4,6 +4,20 @@
 
 The concept of Applicability Domain (AD) is crucial in the field of cheminformatics, particularly when using machine learning (ML) and deep learning (DL) models for small molecule prediction. AD refers to the chemical space covered by a model within which predictions are considered reliable. It's a way to assess whether a new compound is similar enough to those in the training set, and thus if the model's predictions for that compound are likely to be accurate.
 
+🚧 Project Status: Getting Ready for Launch! 🚧
+
+We are excited to announce that this GitHub repository is swiftly moving towards its launch! Currently, it's a hive of activity as we lay the groundwork for something truly special.
+
+What to Expect:
+
+Work in Progress: Our team is diligently preparing the repository, ensuring that everything is set for a smooth launch.
+Coming Soon: Stay tuned for the deployment of our initial version. We're just as eager as you are to share our work with the community.
+New Features and Improvements: Beyond the initial release, we have a roadmap packed with new features, enhancements, and updates. Our commitment is to continuously evolve and adapt, providing you with tools that meet and exceed your expectations.
+Stay Updated: Keep an eye on this space! We'll share progress updates, sneak peeks, and launch announcements. Your feedback and suggestions are always welcome as they are invaluable in shaping the future of this project.
+
+Thank you for your patience and support. We can't wait to unveil what we've been working on!
+
+
 ## Approaches to AD
 
 1. **Distance-Based Methods**: These involve measuring the distance or similarity of a new compound to those in the training set. Methods like Euclidean or Manhattan distance are common.
